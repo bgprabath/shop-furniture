@@ -1,0 +1,20 @@
+.carousel-item {
+    height: 600px;
+
+}
+
+.carousel-image-1{
+    background: url('../img/fog-foggy-forest-279626.jpg');
+    background-size: cover;
+   
+}
+
+.carousel-image-2{
+    background: url('../img/black-and-white-board-boardroom-260689.jpg');
+    background-size: cover;
+}
+
+.carousel-image-3{
+    background: url('../img/chair-contemporary-cushions-1439965.jpg');
+    background-size: cover;
+}
